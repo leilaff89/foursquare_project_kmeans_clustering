@@ -5,25 +5,36 @@ science project (from data collection to the evaluation of the applied model).
 Tools used in this project:
 
 [Beautiful Soup](https://pypi.org/project/beautifulsoup4/)
+
 [Geocoder using ArcGis](https://pypi.org/project/geocoder/)
+
 [Geopy](https://pypi.org/project/geopy/)
+
 [Foursquare API](https://developer.foursquare.com/)
-[Matplotlib](https://matplotlib.org/)
+
+[Matplotlib](https://matplotlib.org/) 
+
 [Seaborn](https://seaborn.pydata.org/)
+
 [Plotly](https://plotly.com/)
+
 [Folium](https://pypi.org/project/folium/)
+
 [Sklearn](https://scikit-learn.org/stable/)
+
 [Json](https://docs.python.org/3/library/json.html)
+
 [Requests](https://docs.python-requests.org/en/latest/)
+
 [Wikipedia](https://en.wikipedia.org/wiki/List_of_Cincinnati_neighborhoods)
 
-Picture Source
 
-https://www.dentons.com/en/global-presence/united-states/cincinnati
 
-About Cincinnati
+[Picture Source](https://www.dentons.com/en/global-presence/united-states/cincinnati)
 
-https://www.newhomesource.com/learn/cincinnati-relocation-guide/
+
+[About Cincinnati](https://www.newhomesource.com/learn/cincinnati-relocation-guide/)
+
 
 
 
