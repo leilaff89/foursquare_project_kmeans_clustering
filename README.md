@@ -1,5 +1,5 @@
 ## In this project, the data provided by the Foursquare API related to venues in the city of Cincinnati, Ohio, USA are explored. The main objective is to get characteristics of its neighborhoods and assess which ones are best suited to the lifestyle of those who will live in this city. To achieve this, a complete study is done using important steps of a data  science project (from data collection to the evaluation of the applied model).
-
+______________________________________________________________________________________________________________________________________________________________________
 
 #### Read the complete Report in the following link:
 
@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
 [Wikipedia](https://en.wikipedia.org/wiki/List_of_Cincinnati_neighborhoods)
 
-
+_____________________________________________________________________________________________________________________________________________________________________
 
 [Picture Source](https://www.dentons.com/en/global-presence/united-states/cincinnati)
 
